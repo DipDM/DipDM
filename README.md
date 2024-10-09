@@ -36,6 +36,7 @@ And I like to watch and play Football.
 
 #### Frontend
 - Vuejs
+- Tailwind CSS
 - JavaScript 
 - HTML, CSS
 - Node.js 
